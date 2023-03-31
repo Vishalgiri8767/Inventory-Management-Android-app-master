@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74510706247",
+    "project_id": "inventory-application-f67de",
+    "storage_bucket": "inventory-application-f67de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74510706247:android:0b5d99e0cf3010ef18b362",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74510706247-ve0pt1836ce31ioh22qts458atp9kc6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.augscan",
+            "certificate_hash": "23d88007b0247430b55d8a86aab2fce1b2284691"
+          }
+        },
+        {
+          "client_id": "74510706247-4bi81fit85t5rrqdb4nq6qksctq3m72k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUy9kbDuXoHceouGMNPIJSDHgoRjQnaHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74510706247-4bi81fit85t5rrqdb4nq6qksctq3m72k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
